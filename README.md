@@ -89,10 +89,10 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/fbdfb209-f728-4d60-baa7-5522fda4df00)
 
-Enter the message to encrypt: MUHAMMAD AFSHAN A
-Enter the Caesar Cipher key (an integer): 22
-Encrypted Message: IQDWIIWZ WBODWJ W
-Decrypted Message: MUHAMMAD AFSHAN A
+Enter the message to encrypt: MUHAMMAD AFSHAN A <br>
+Enter the Caesar Cipher key (an integer): 22 <br>
+Encrypted Message: IQDWIIWZ WBODWJ W <br>
+Decrypted Message: MUHAMMAD AFSHAN A <br>
 
 ## RESULT:
 The program is executed successfully
